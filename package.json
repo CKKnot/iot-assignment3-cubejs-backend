@@ -1,0 +1,12 @@
+{
+  "name": "iot-assignment3-cubejs-backend",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@cubejs-backend/server": "^0.19.33",
+    "@cubejs-backend/sqlite-driver": "^0.19.21"
+  }
+}
